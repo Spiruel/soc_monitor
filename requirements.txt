@@ -1,5 +1,4 @@
 earthengine_api==0.1.296
-ee==0.4
 extra_streamlit_components==0.1.53
 geemap==0.11.8
 geopandas==0.9.0
