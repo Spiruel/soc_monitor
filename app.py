@@ -3,7 +3,7 @@ import extra_streamlit_components as stx
 
 import geemap
 import ee
-ee.Initialize()
+#ee.Initialize()
 
 import pandas as pd
 import geopandas as gpd
